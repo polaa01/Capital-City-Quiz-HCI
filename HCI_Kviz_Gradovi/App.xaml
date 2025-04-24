@@ -1,0 +1,16 @@
+﻿<Application x:Class="HCI_Kviz_Gradovi.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HCI_Kviz_Gradovi"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <ResourceDictionary>
+            <Style x:Key="CustomWindowStyle" TargetType="Window">
+                <Setter Property="Background" Value="#0D7C66"/>
+            </Style>
+
+            </ResourceDictionary>
+
+    </Application.Resources>
+</Application>

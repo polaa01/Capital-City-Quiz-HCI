@@ -1,0 +1,35 @@
+France: Paris
+Germany: Berlin
+Japan: Tokyo
+Brazil: Brasilia
+USA: Washington D.C.
+Serbia: Belgrade
+Austria: Vienna
+Spain: Madrid
+Slovenia: Ljubljana
+Italy: Rome
+Slovakia: Bratislava
+Norway: Oslo
+China: Beijing
+Greece: Athens
+Portugal: Lisabon
+Canada: Ottawa
+Turkey: Ankara
+Bosnia & Herzegovina: Sarajevo
+Croatia: Zagreb
+Poland: Warsaw
+Montenegro: Podgorica
+Hungary: Budapest
+Russia: Moscow
+Sweden: Stockholm
+Denmark: Copenhagen
+Czech Republic: Prague
+Egypt: Cairo
+Togo: Lome
+Morocco: Rabat
+Angola: Luanda
+Zambia: Lusaka
+Senegal: Dacar
+Vietnam: Hanoi
+Philippines: Manilla
+Thailand: Bangkok
